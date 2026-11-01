@@ -88,7 +88,6 @@ me = Kiran()
 
 </div>
 
-## 🐍 `06 / CONTRIBUTION SNAKE`
 
 <div align="center">
 
@@ -96,7 +95,6 @@ me = Kiran()
 
 </div>
 
-## 🌌 `07 / 3D CONTRIBUTION UNIVERSE`
 
 <div align="center">
 
