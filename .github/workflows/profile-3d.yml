@@ -4,6 +4,7 @@ name: Generate 3D Cyber Contributions
 on:
   schedule:
     - cron: "0 18 * * *"
+
   workflow_dispatch:
 
 permissions:
