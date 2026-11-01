@@ -104,8 +104,6 @@ me = Kiran()
 
 </div>
 
-## 🌐 `08 / CONNECT WITH ME`
-
 <div align="center">
 
 <a href="https://github.com/pradhankiran400-dotcom">
