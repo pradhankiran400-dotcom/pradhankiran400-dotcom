@@ -115,11 +115,16 @@ me = Kiran()
 <br/><br/>
 
 
-## 🏆 GITHUB ACHIEVEMENTS
 
-<div align="center">
+<h2 align="center">🏆 GITHUB ACHIEVEMENTS</h2>
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=pradhankiran400-dotcom&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=4" />
+<p align="center">
+  <img
+    src="https://trophy.ryglcloud.net/?username=pradhankiran400-dotcom&theme=tokyonight&no-frame=true&no-bg=true&column=4"
+    width="100%"
+    alt="GitHub Trophies"
+  />
+</p>
 
 </div>
 
