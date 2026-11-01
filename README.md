@@ -125,6 +125,83 @@ me = Kiran()
     alt="GitHub Trophies"
   />
 </p>
+## 🚀 TOP PROJECTS
+
+<div align="center">
+
+*Building practical solutions with AI, ML, and full-stack development.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💸 Expense Tracker
+
+A web-based expense tracking application.
+
+**Tech:** Full-Stack Development
+
+[🌐 Live Demo](https://expensetracker-frontend-seven.vercel.app/login.html) · [💻 Source Code](https://github.com/pradhankiran400-dotcom/Expense_Tracker)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Career Path Recommender
+
+An AI-powered application for career path recommendations.
+
+**Tech:** Artificial Intelligence · Machine Learning
+
+[🌐 Live Demo](https://ai-career-path-recommendor.onrender.com/) · [💻 Source Code](https://github.com/pradhankiran400-dotcom/AI-Career-Path-Recommendor)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Book Recommendation System
+
+A personalized book recommendation application.
+
+**Tech:** Machine Learning · Recommendation Systems
+
+[🌐 Live Demo](https://book-recommendor-system-fzjx.onrender.com/) · [💻 Source Code](https://github.com/pradhankiran400-dotcom/Book-Recommendation-System)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Project Mosaic
+
+A collaborative web development project.
+
+**Tech:** React · Next.js · Frontend Development
+
+[🌐 Live Demo](https://project-mosaic-zeta.vercel.app/) · [💻 Source Code](https://github.com/pradhankiran400-dotcom/Project-Mosaic)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" align="center">
+
+### 🌾 Smart Crop Advisory & Farmer Distress Early-Warning System
+
+An AI-driven project focused on agricultural advisory and early warning of farmer distress.
+
+**Tech:** AI · Machine Learning · Data Science
+
+[🌐 Live Demo](https://sih-latest.onrender.com/) · [💻 Source Code](https://github.com/pradhankiran400-dotcom/Smart-Crop-Advisory-Farmer-Distress-Early-Warning-System-SIH-2026-)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**More projects coming soon... ⚡**
+
+</div>
 
 </div>
 
