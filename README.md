@@ -191,7 +191,7 @@ An AI-driven project focused on agricultural advisory and early warning of farme
 
 **Tech:** AI · Machine Learning · Data Science
 
-[🌐 Live Demo](https://sih-latest.onrender.com/) · [💻 Source Code](https://github.com/pradhankiran400-dotcom/Smart-Crop-Advisory-Farmer-Distress-Early-Warning-System-SIH-2026-)
+[🌐 Live Demo](https://krishimitra-kohl.vercel.app/) · [💻 Source Code](https://github.com/pradhankiran400-dotcom/Smart-Crop-Advisory-Farmer-Distress-Early-Warning-System-SIH-2026-)
 
 </td>
 </tr>
